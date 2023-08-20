@@ -1,4 +1,4 @@
-# trafficsignrecognition
+# Trafficsignrecognition
 Traffic Sign Recognition Project Documentation
 Introduction
 The Traffic Sign Recognition project aims to develop a computer vision system capable of accurately classifying various traffic signs in real-time using OpenCV and TensorFlow's Keras library. This documentation provides an overview of the project's methodology, architecture, implementation details, and results.
